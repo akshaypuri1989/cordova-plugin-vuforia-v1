@@ -2,13 +2,13 @@
   "name": "cordova-plugin-vuforia",
   "description": "Cordova Vuforia Plugin",
   "version": "3.2.1",
-  "homepage": "https://github.com/mattrayner/cordova-plugin-vuforia",
+  "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia",
   "repository": {
     "type": "git",
-    "url": "git@github.com:mattrayner/cordova-plugin-vuforia.git"
+    "url": "git@github.com:akshaypuri1989/cordova-plugin-vuforia.git"
   },
   "bugs": {
-    "url": "https://github.com/mattrayner/cordova-plugin-vuforia/issues"
+    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia/issues"
   },
   "cordova": {
     "id": "cordova-plugin-vuforia",

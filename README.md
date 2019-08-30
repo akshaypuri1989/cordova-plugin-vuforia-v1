@@ -321,8 +321,8 @@ Cordova-Plugin-Vuforia is licensed under the [MIT License][info-license].
 [updating-cordova]: https://cordova.apache.org/docs/en/latest/guide/cli/index.html#updating-cordova-and-your-project
 [upgrading-ios]: https://cordova.apache.org/docs/en/latest/guide/platforms/ios/upgrade.html#upgrading-360-projects-to-400
 [upgrading-android]: https://cordova.apache.org/docs/en/latest/guide/platforms/android/upgrade.html#upgrading-to-5xx
-[cordova-plugin-vuforia-sdk]: https://github.com/mattrayner/cordova-plugin-vuforia-sdk
-[issue-16]: https://github.com/mattrayner/cordova-plugin-vuforia/issues/16
+[cordova-plugin-vuforia-sdk]: https://github.com/akshaypuri1989/cordova-plugin-vuforia-sdk
+[issue-16]: https://github.com/akshaypuri1989/cordova-plugin-vuforia/issues/16
 [cordova-orientation-issue]: https://github.com/apache/cordova-lib/pull/260
 [peugeot]: https://itunes.apple.com/gb/app/new-peugeot-208/id1020630968?mt=8
 

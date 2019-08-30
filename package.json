@@ -5,7 +5,7 @@
   "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia",
   "repository": {
     "type": "git",
-    "url": "git@github.com:akshaypuri1989/cordova-plugin-vuforia.git"
+    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia.git"
   },
   "bugs": {
     "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia/issues"

@@ -2,16 +2,16 @@
   "name": "cordova-plugin-vuforia",
   "description": "Cordova Vuforia Plugin",
   "version": "3.2.1",
-  "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia",
+  "homepage": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-v1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia.git"
+    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-v1.git"
   },
   "bugs": {
-    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia/issues"
+    "url": "https://github.com/akshaypuri1989/cordova-plugin-vuforia-v1/issues"
   },
   "cordova": {
-    "id": "cordova-plugin-vuforia",
+    "id": "cordova-plugin-vuforia-v1",
     "platforms": [
       "android",
       "ios"
@@ -49,6 +49,6 @@
   "author": "Matthew Rayner",
   "license": "MIT",
   "dependencies": {
-    "cordova-plugin-vuforia-sdk": "6.x.x"
+    "cordova-plugin-vuforia-sdk-v1": "6.x.x"
   }
 }
